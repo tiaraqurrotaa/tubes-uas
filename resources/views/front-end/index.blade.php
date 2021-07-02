@@ -190,7 +190,7 @@
     <section class="tm-makeres">
     <div class="tm-res">
        <div class="tm-resbutton">
-           <a href="bb"> <p>Make Reservation</p></a>
+           <a href="booking"> <p>Make Reservation</p></a>
         </div>
         </div>
     </section>
