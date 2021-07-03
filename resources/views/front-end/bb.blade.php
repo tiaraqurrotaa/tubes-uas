@@ -23,7 +23,7 @@
         <nav class="tm-nav">
        <div>
             <ul>
-                <li class="tm-list"><a href="index">Home</a></li>
+                <li class="tm-list"><a href="home">Home</a></li>
                 <li class="tm-list"><a href="explore">Explore</a></li>
                 <li class="tm-list"><a href="rooms">Rooms</a></li>
                 <li class="tm-list"><a href="booking">Booking</a></li>

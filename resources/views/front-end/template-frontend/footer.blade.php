@@ -9,11 +9,11 @@
     </div>
    
     <div class="tm-address">
-    <p class="bold">Address</p>
-    <p>415, Park Avenu, Hawai.
-        Phone : (211) 9275693451
-        Email : togethere@info.com</p>    
-    </div>
+        <p class="bold">Address</p>
+        <p>246, Tlogomas, Malang.
+            Phone : (0341) 464318
+            Email : togethere@info.com</p>    
+        </div>
     <br/>
 <div class="tm-media">
     <a href="#"> <img src="images/fb.png"></a>
